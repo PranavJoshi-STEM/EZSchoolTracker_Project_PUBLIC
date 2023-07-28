@@ -1,4 +1,6 @@
 # EZSchoolTracker
+## Please see:
+This is a copy of EZSchoolTracker_Project made by Pranav Joshi (me).  Unlike EZSchoolTracker_Project, this repository does not contain the source code.  Instead, EZSchoolTracker_Project_PUBLIC only has the standalone applications, the data and the markdown files.  If you would like to see the code, please contact me at Joshipn2018@gmail.com.
 ## Description:
 This project was built as a client-server application.  Version 1 was released on February 26th, 2023.
 
